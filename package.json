@@ -1,0 +1,30 @@
+{
+  "name": "Express-JS-Crash-Course",
+  "version": "1.0.0",
+  "description": "Reference Video Link : https://www.youtube.com/watch?v=L72fhGm1tfE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurav-71/Express-JS-Crash-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurav-71/Express-JS-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/Gaurav-71/Express-JS-Crash-Course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
